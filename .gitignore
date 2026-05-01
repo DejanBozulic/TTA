@@ -6,6 +6,7 @@ build/
 .env.local
 .env.production
 *.log
+tsconfig.tsbuildinfo
 .DS_Store
 Thumbs.db
 .vscode/

@@ -1,0 +1,10 @@
+export const EMPLOYEES = ["Ana K.","Bor M.","Cvetka P.","Domen L.","Eva R.","Filip S."];
+export const STATUSES = ["Planirano","Na cakanju","V teku","Zakljuceno"];
+export const PRIORITIES = ["Nizka","Srednja","Visoka","Kriticna"];
+export const PHASES = ["Priprava","Pregled","Korekcija","Odobritev"];
+export const HOURS_PER_DAY = 8;
+export const PROJECT_PALETTE  = ["#e0edff","#e6f9f0","#fef3e2","#f3e8ff","#fce7f3","#ecfdf5"];
+export const PROJECT_TEXT_PAL = ["#1d4ed8","#15803d","#b45309","#7c3aed","#be185d","#065f46"];
+export const DAY_LABELS = ["Ne","Po","To","Sr","Ce","Pe","So"];
+export const MONTH_NAMES = ["Januar","Februar","Marec","April","Maj","Junij","Julij","Avgust","September","Oktober","November","December"];
+export const TODAY_MS = new Date("2026-04-30").getTime();
